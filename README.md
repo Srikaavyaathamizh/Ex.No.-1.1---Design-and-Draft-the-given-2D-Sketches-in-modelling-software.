@@ -17,7 +17,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+![Screenshot 2023-12-15 190819](https://github.com/Srikaavyaathamizh/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870938/105db80e-593c-4d6b-a3ad-f33143c81821)
+
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
